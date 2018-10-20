@@ -1,5 +1,5 @@
 _repo: Memorials-and-Other-Papers-Complete_6171
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English essays'
+- GITenberg
 tableOfContents: Explanatory notices -- The orphan heiress -- Oxford -- The pagan
   oracles -- The revolution of Greece -- Klosterheim -- The sphinx's riddle -- The
   templars' dialogues.
